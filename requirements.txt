@@ -1,5 +1,5 @@
 pyrogram
 tgcrypto
-pytgcalls
 yt-dlp
 requests
+pytgcalls==3.0.0.dev24
